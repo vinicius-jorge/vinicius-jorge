@@ -6,8 +6,12 @@
 
 <div>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-jorge&count_private=true&show_icons=true&theme=graywhite)](https://github.com/vinicius-jorge/github-readme-stats)
-  [![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-jorge&langs_count=7)](https://github.com/vinicius-jorge/github-readme-stats)
+<a href="https://github.com/vinicius-jorge/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-jorge&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/vinicius-jorge/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-jorge&repo=convoychat" />
+</a>
 
 <div>
 
