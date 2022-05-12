@@ -7,10 +7,10 @@
 <div>
   
 <a href="https://github.com/vinicius-jorge/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-jorge&repo=github-readme-stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=vinicius-jorge" />
 </a>
-<a href="https://github.com/vinicius-jorge/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-jorge&repo=convoychat" />
+<a href="https://github.com/vinicius-jorge/github-readme-stats">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-jorge&layout=compact" />
 </a>
 
 <div>
