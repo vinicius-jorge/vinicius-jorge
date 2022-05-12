@@ -7,7 +7,7 @@
 <div>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-jorge&count_private=true&show_icons=true&theme=graywhite)](https://github.com/vinicius-jorge/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-jorge)](https://github.com/vinicius-jorge/github-readme-stats)
+  [![Top Langs] img height="150em" (https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-jorge&langs_count=7)](https://github.com/vinicius-jorge/github-readme-stats)
 
   
 </div>
