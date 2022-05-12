@@ -4,13 +4,11 @@
 - 👨‍🎓 Cursando faculdade em Análise e Desenvolvimento de Sistemas, no IFBA;
 - 💻 Estudando as linguagens C/C++ (faculdade), Python, C# e SQL;
 
-<div>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-jorge&count_private=true&show_icons=true&theme=graywhite)](https://github.com/vinicius-jorge/github-readme-stats)
-  [![Top Langs] img height="150em" (https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-jorge&langs_count=7)](https://github.com/vinicius-jorge/github-readme-stats)
+  [![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-jorge&langs_count=7)](https://github.com/vinicius-jorge/github-readme-stats)
 
-  
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
