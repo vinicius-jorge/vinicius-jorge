@@ -9,8 +9,6 @@
   <a href="https://github.com/vinicius-jorge">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinicius-jorge&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-jorge&layout=compact)](https://github.com/vinicius-jorge/github-readme-stats)
-
 <div>
 
 <div style="display: inline_block"><br>
