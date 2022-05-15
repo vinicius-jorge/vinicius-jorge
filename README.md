@@ -6,9 +6,10 @@
 
 <div>
   
-[![Vinícius Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-jorge&count_private=true&show_icons=true&theme=graywhite&include_all_commits=true)](https://github.com/vinicius-jorge/github-readme-stats)
-    
-<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-jorge&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)](https://github.com/vinicius-jorge/github-readme-stats)
+
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
