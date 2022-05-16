@@ -8,7 +8,7 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-jorge&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)](https://github.com/vinicius-jorge/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-jorge)](https://github.com/vinicius-jorge/vinicius-jorge)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-jorge)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
