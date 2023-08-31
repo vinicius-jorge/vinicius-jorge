@@ -1,6 +1,5 @@
 ## Oi, eu sou o Vinícius Jorge!
 
-- 📚 Em busca de oportunidade de estágio;
 - 👨‍🎓 Cursando faculdade em Análise e Desenvolvimento de Sistemas, no IFBA;
 - 💻 Estudando as linguagens C/C++ (faculdade), Python, C# e SQL;
 
